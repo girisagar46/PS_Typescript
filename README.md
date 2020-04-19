@@ -1,0 +1,1 @@
+[https://app.pluralsight.com/paths/skill/typescript-core-language](https://app.pluralsight.com/paths/skill/typescript-core-language)
