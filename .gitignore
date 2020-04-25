@@ -2,3 +2,4 @@
 .idea
 *.js
 *.map
+!webpack.config.js
